@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Finalbrain/static/css/main.a9a2d419.chunk.css",
+    "main.js": "/Finalbrain/static/js/main.e742b1cf.chunk.js",
+    "main.js.map": "/Finalbrain/static/js/main.e742b1cf.chunk.js.map",
+    "runtime-main.js": "/Finalbrain/static/js/runtime-main.8946a417.js",
+    "runtime-main.js.map": "/Finalbrain/static/js/runtime-main.8946a417.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Finalbrain/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.5edd8db9.chunk.js": "/Finalbrain/static/js/2.5edd8db9.chunk.js",
+    "static/js/2.5edd8db9.chunk.js.map": "/Finalbrain/static/js/2.5edd8db9.chunk.js.map",
+    "index.html": "/Finalbrain/index.html",
+    "precache-manifest.5a24c263e70e2f0b8f52aad75fd77ebe.js": "/Finalbrain/precache-manifest.5a24c263e70e2f0b8f52aad75fd77ebe.js",
+    "service-worker.js": "/Finalbrain/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Finalbrain/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.a9a2d419.chunk.css.map": "/Finalbrain/static/css/main.a9a2d419.chunk.css.map",
+    "static/media/brain.jpg": "/Finalbrain/static/media/brain.7f28e344.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8946a417.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.5edd8db9.chunk.js",
+    "static/css/main.a9a2d419.chunk.css",
+    "static/js/main.e742b1cf.chunk.js"
+  ]
+}
